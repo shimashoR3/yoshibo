@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/c_scene1.ks]
+[_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
 [bg  storage="haikei2.PNG"  time="1000"  ]
